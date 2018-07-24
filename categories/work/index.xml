@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MsStudio</title>
-    <link>https://blog.ms300.cn/</link>
-    <description>Recent content on MsStudio</description>
+    <title>Work on MsStudio</title>
+    <link>https://blog.ms300.cn/categories/work/</link>
+    <description>Recent content in Work on MsStudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Tue, 24 Jul 2018 10:52:58 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.ms300.cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ms300.cn/categories/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://blog.ms300.cn/post/hello-world/</guid>
       <description>从2018年7月24日迁移至此。</description>
-    </item>
-    
-    <item>
-      <title>测试分类</title>
-      <link>https://blog.ms300.cn/post/test/</link>
-      <pubDate>Tue, 24 Jul 2018 10:52:58 +0800</pubDate>
-      
-      <guid>https://blog.ms300.cn/post/test/</guid>
-      <description>def test(): print(&amp;#34;1.1.1.1&amp;#34;.split()[1]) 测试~~~~</description>
     </item>
     
   </channel>

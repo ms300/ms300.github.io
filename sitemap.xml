@@ -3,17 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ms300.cn/post/hello-world/</loc>
+    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ms300.cn/post/test/</loc>
+    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ms300.cn/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ms300.cn/</loc>
+    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ms300.cn/post/</loc>
+    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ms300.cn/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ms300.cn/categories/work/</loc>
+    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
