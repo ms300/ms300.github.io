@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base32 on Ingress Decode Group</title>
+    <link>http://passcode.fr/tags/base32/</link>
+    <description>Recent content in Base32 on Ingress Decode Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 25 Oct 2017 02:08:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://passcode.fr/tags/base32/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017-1025code A SECURE LOCATION</title>
+      <link>http://passcode.fr/blog/2017/10/25/2017-1025code-a-secure-location/</link>
+      <pubDate>Wed, 25 Oct 2017 02:08:09 +0000</pubDate>
+      
+      <guid>http://passcode.fr/blog/2017/10/25/2017-1025code-a-secure-location/</guid>
+      <description>e whv7hjtpdkxnrh3jznw6odxe 24位全小写，数字不够4位，也凑不出关键词，考虑base32 全转成大写后Base32转成十六进制 B1EBF3A66F1AAED89F69CB6DE70EE4 十六进制转Base64 sevzpm8artifactt5w7k 即 7zpm8artifactt5w7k ^^_^__^_^_^_^_^^^^^^____^^^^____^_^_^^__^__^^__^^__^___^__^^^_^__^ (猩猩第</description>
+    </item>
+    
+  </channel>
+</rss>

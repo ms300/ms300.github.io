@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base26 on Ingress Decode Group</title>
+    <link>http://passcode.fr/tags/base26/</link>
+    <description>Recent content in Base26 on Ingress Decode Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 10 Jan 2018 02:07:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://passcode.fr/tags/base26/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018-0110code SAVE THE DATE: RPE IN CHICAGO</title>
+      <link>http://passcode.fr/blog/2018/01/10/2018-0110code-save-the-date-rpe-in-chicago/</link>
+      <pubDate>Wed, 10 Jan 2018 02:07:58 +0000</pubDate>
+      
+      <guid>http://passcode.fr/blog/2018/01/10/2018-0110code-save-the-date-rpe-in-chicago/</guid>
+      <description>e op2bc6re7n59pm op 2b c6 re 7n 59 pm 两两分组，每组反着读 pob26cern795mp cwdicocbcecpdbdadgdecncpdgcacdcecudl 两两分组 cw di co cb ce cp db da dg de cn cp dg ca cd ce cu dl 都是以c和d开头，有一种base26编码，基于字母表换</description>
+    </item>
+    
+  </channel>
+</rss>
