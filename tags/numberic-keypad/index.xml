@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numberic Keypad on Ingress Decode Group</title>
+    <link>http://passcode.fr/tags/numberic-keypad/</link>
+    <description>Recent content in Numberic Keypad on Ingress Decode Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 09 Jan 2018 22:05:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://passcode.fr/tags/numberic-keypad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JOJO-PERVIOUS</title>
+      <link>http://passcode.fr/blog/2018/01/10/jojo-pervious/</link>
+      <pubDate>Tue, 09 Jan 2018 22:05:42 +0000</pubDate>
+      
+      <guid>http://passcode.fr/blog/2018/01/10/jojo-pervious/</guid>
+      <description>e O3311999911336.6O666974448866666.6O222288663377996.3O9663141166666.6O888893222888932226.9O88822236698886.6O6666444423644226.666666O788966322147999.66O33336.6O9999.2222O77774.4O11111 数字只出现12346789(注意那是大写字母O不是0) 考虑看成是电脑小键盘的方向(1-左下，2-下，3-右下，4-左，6-右，7-左上，8-上，9-右上) 想象一个打印机或者手拿着一支笔，在纸上进行绘图，O表示落笔，点.表示离开笔，数字按照上面规矩表示笔的移动方向 最后纸上可以获得  x5k2muf0xx </description>
+    </item>
+    
+  </channel>
+</rss>

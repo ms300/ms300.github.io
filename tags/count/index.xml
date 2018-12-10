@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Count on Ingress Decode Group</title>
+    <link>http://passcode.fr/tags/count/</link>
+    <description>Recent content in Count on Ingress Decode Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Apr 2018 16:00:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://passcode.fr/tags/count/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JOJO-ARANUI</title>
+      <link>http://passcode.fr/blog/2018/04/13/jojo-aranui/</link>
+      <pubDate>Thu, 12 Apr 2018 16:00:28 +0000</pubDate>
+      
+      <guid>http://passcode.fr/blog/2018/04/13/jojo-aranui/</guid>
+      <description>&lt;h3 id=&#34;aranui&#34;&gt;ARANUI&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;Great path or great journey (Māori).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;伟大的旅程&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

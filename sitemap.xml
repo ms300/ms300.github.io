@@ -3,40 +3,2262 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.ms300.cn/post/hello-world/</loc>
-    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+    <loc>http://passcode.fr/blog/2018/07/17/2018-0715code-operation-cassandra-anomaly-intel/</loc>
+    <lastmod>2018-07-16T16:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ms300.cn/post/test/</loc>
-    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+    <loc>http://passcode.fr/blog/2018/05/15/2018-0512-code-hank-johnson-rpe-signups-for-camp-navarro-schloss-kaltenberg/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ms300.cn/categories/</loc>
+    <loc>http://passcode.fr/blog/2018/04/21/edtgtest-2018s1/</loc>
+    <lastmod>2018-04-21T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/21/1718/</loc>
+    <lastmod>2018-04-21T02:06:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/18/2018-0416code-the-osiris-sequence-a-bridge-to-a-new-universe/</loc>
+    <lastmod>2018-04-17T16:00:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/13/jojo-aranui/</loc>
+    <lastmod>2018-04-12T16:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/12/jojo-ariose/</loc>
+    <lastmod>2018-04-11T16:00:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/12/jojo-fain/</loc>
+    <lastmod>2018-04-11T16:00:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/12/jojo-adaboost/</loc>
+    <lastmod>2018-04-11T16:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/09/2018-0407code-resistance-win-darkxmcure-challenge/</loc>
+    <lastmod>2018-04-08T16:00:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/07/2018-0405code-dark-xm-threat-and-response-reaching-the-end/</loc>
+    <lastmod>2018-04-06T16:00:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/05/2018-0403code-acolyte-our-goals-is-to-protect-the-purity-of-human-experience/</loc>
+    <lastmod>2018-04-04T16:00:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/04/2018-0402code-dark-xm-threat-response-day-3/</loc>
+    <lastmod>2018-04-03T16:00:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/02/2018-0330-code-emerging-intel-dark-xm-counterresponse-shard-operation-in-fukuoka-part-2/</loc>
+    <lastmod>2018-04-01T16:05:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/02/2018-0330-code-emerging-intel-dark-xm-counterresponse-shard-operation-in-fukuoka-part-1/</loc>
+    <lastmod>2018-04-01T16:00:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/04/01/2018-0329code-god-of-dreams/</loc>
+    <lastmod>2018-03-31T16:00:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/30/2018-0327code-an-ancient-civilization-in-the-amazon/</loc>
+    <lastmod>2018-03-29T16:00:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/29/jojo-hypnicjerk/</loc>
+    <lastmod>2018-03-28T16:27:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/29/jojo-retrodict/</loc>
+    <lastmod>2018-03-28T16:15:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/29/jojo-refection/</loc>
+    <lastmod>2018-03-28T16:02:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/28/jojo-rubberduckdebugging/</loc>
+    <lastmod>2018-03-28T15:51:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/28/2018-0326code-the-past/</loc>
+    <lastmod>2018-03-28T09:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/25/2018-0325code-dark-xm-threat-response-day-2/</loc>
+    <lastmod>2018-03-25T01:31:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/23/2018-0323code-dark-xm-threat-and-response-day-two-approaching/</loc>
+    <lastmod>2018-03-23T04:21:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/21/2018-0321code-dreams-and-nightmares/</loc>
+    <lastmod>2018-03-21T03:39:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/20/2018-0320code-a-glyph-hunters-journey/</loc>
+    <lastmod>2018-03-20T02:22:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/19/2018-0319code-upcoming-magnus-events/</loc>
+    <lastmod>2018-03-19T01:58:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/17/2018-0317code-dark-xm-threat-response-day-1/</loc>
+    <lastmod>2018-03-17T01:36:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/16/2018-0316code-a-tycho-in-tokyo/</loc>
+    <lastmod>2018-03-16T09:01:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/15/2018-0315code-dark-xm-threat-response-day-one-approaching/</loc>
+    <lastmod>2018-03-15T05:15:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/14/2018-0315code-picking-sides/</loc>
+    <lastmod>2018-03-14T03:40:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/13/2018-0313code-a-dice-thrown-where-we-cannot-see/</loc>
+    <lastmod>2018-03-13T04:33:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/12/2018-0312code-brainwaves/</loc>
+    <lastmod>2018-03-12T04:11:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/11/2018-0311code-the-gates-of-hell/</loc>
+    <lastmod>2018-03-11T02:35:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/10/2018-0310code-chicago-rpe-report-2/</loc>
+    <lastmod>2018-03-10T08:30:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/09/2018-0309code-chicago-rpe-report-1/</loc>
+    <lastmod>2018-03-09T08:11:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/08/2018-0308code-breaking-opr-submission-limit-update/</loc>
+    <lastmod>2018-03-08T07:58:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/07/2019-0307code-dark-xm-threat-and-response/</loc>
+    <lastmod>2018-03-07T13:21:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/06/2018-0306code-new-journey/</loc>
+    <lastmod>2018-03-06T03:34:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/06/jojo-adonize/</loc>
+    <lastmod>2018-03-05T17:54:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/06/jojo-ingenerate/</loc>
+    <lastmod>2018-03-05T17:43:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/06/jojo-oblivescence/</loc>
+    <lastmod>2018-03-05T17:19:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/03/06/jojo-denormalization/</loc>
+    <lastmod>2018-03-05T17:13:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/27/the-clam-before-the-storm/</loc>
+    <lastmod>2018-02-27T02:41:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/16/2018-0216code-one-more-chance-the-chicago-rpe-online-edition/</loc>
+    <lastmod>2018-02-16T01:36:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/15/2018xma-intel/</loc>
+    <lastmod>2018-02-15T14:14:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/14/2018-0214code-mysterious-aberrations/</loc>
+    <lastmod>2018-02-14T13:32:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/09/2018-0209code-gazing-into-chicago/</loc>
+    <lastmod>2018-02-09T13:15:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/07/2018-0207code-a-message-from-a-nomad/</loc>
+    <lastmod>2018-02-07T04:19:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/06/2018-0206code-beyond-the-human-mind/</loc>
+    <lastmod>2018-02-06T03:53:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/05/jojo-boustrophedon/</loc>
+    <lastmod>2018-02-05T06:38:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/05/jojo-literatim/</loc>
+    <lastmod>2018-02-05T06:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/05/jojo-euhemerism/</loc>
+    <lastmod>2018-02-05T06:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/04/2018-0204code-missing-files/</loc>
+    <lastmod>2018-02-04T15:23:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/04/2018-0204code-hearing-the-end/</loc>
+    <lastmod>2018-02-04T09:37:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/03/2018-0203code-forest-of-secrets/</loc>
+    <lastmod>2018-02-03T08:19:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/02/01/2018-0201code-the-influencers/</loc>
+    <lastmod>2018-02-01T02:49:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/31/2018-0131code-rpe-in-chicago-signups-closing-tomorrow/</loc>
+    <lastmod>2018-01-31T01:57:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/30/2018-0130code-memory-and-experience/</loc>
+    <lastmod>2018-01-29T17:10:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/29/2018-0129code-cracking-the-voynich/</loc>
+    <lastmod>2018-01-29T15:52:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/29/2018-0129code-murder-at-the-nia-analyst-response-portal/</loc>
+    <lastmod>2018-01-29T14:53:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/28/2018-0128code-ancient-manuscripts/</loc>
+    <lastmod>2018-01-28T08:59:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/27/2018-0127code-ishiras-analysis-the-self-destruct-sequence/</loc>
+    <lastmod>2018-01-27T02:56:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/26/2018-0126code-the-self-destruct-sequence/</loc>
+    <lastmod>2018-01-26T15:43:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/26/jojo-hypercathexis/</loc>
+    <lastmod>2018-01-26T06:05:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/26/jojo-ingratiation/</loc>
+    <lastmod>2018-01-26T05:56:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/24/2018-0124code-autonomous/</loc>
+    <lastmod>2018-01-24T15:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/22/jojo-totimal/</loc>
+    <lastmod>2018-01-22T10:52:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/22/jojo-breviloquence/</loc>
+    <lastmod>2018-01-22T10:38:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/22/2018-0122code-mind-virus/</loc>
+    <lastmod>2018-01-22T06:39:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/21/2018-0121code-signup-sheet-for-chicago-ingress-rpe/</loc>
+    <lastmod>2018-01-21T15:46:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/21/2018-0121code-reinvention/</loc>
+    <lastmod>2018-01-21T06:01:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/20/2018-0120code-rise-fall/</loc>
+    <lastmod>2018-01-20T02:24:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/18/2017-0118code-quantum-capsule-deployment/</loc>
+    <lastmod>2018-01-18T15:03:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/17/2018-0117code-below/</loc>
+    <lastmod>2018-01-17T15:27:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/17/2018-0117codethe-answers/</loc>
+    <lastmod>2018-01-17T04:44:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/15/2018-0115code-a-quantum-machine/</loc>
+    <lastmod>2018-01-15T03:02:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/14/2018-0114code-the-redacted-report-part-9/</loc>
+    <lastmod>2018-01-14T03:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/13/2018-0113code-more-human/</loc>
+    <lastmod>2018-01-13T14:58:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/13/2018-0113code-nl-1331a-deployment-australia-new-zealand-japan/</loc>
+    <lastmod>2018-01-13T03:26:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/11/jojo-apodictic/</loc>
+    <lastmod>2018-01-11T03:50:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/11/2018-0111code-the-next-machines/</loc>
+    <lastmod>2018-01-11T03:00:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/10/2018-0110code-save-the-date-rpe-in-chicago/</loc>
+    <lastmod>2018-01-10T02:07:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/10/2018-0110code-the-redacted-report-part-8/</loc>
+    <lastmod>2018-01-10T01:39:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/10/jojo-pervious/</loc>
+    <lastmod>2018-01-09T22:05:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/09/2018-0109code-the-worth-of-truth/</loc>
+    <lastmod>2018-01-09T02:43:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/07/2018-0107code-the-redacted-report-part-7/</loc>
+    <lastmod>2018-01-07T15:54:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/07/2018-0107code-self-discovery/</loc>
+    <lastmod>2018-01-07T08:04:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/07/jojo-tui-intellectual/</loc>
+    <lastmod>2018-01-06T23:00:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/05/2018-0105code-the-redacted-report-part-6/</loc>
+    <lastmod>2018-01-05T07:44:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/04/2018-0104code-the-redacted-report-part-5/</loc>
+    <lastmod>2018-01-04T15:12:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/04/2018-0104code-the-redacted-report-part-four/</loc>
+    <lastmod>2018-01-04T02:48:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/04/jojo-elenctic/</loc>
+    <lastmod>2018-01-04T02:00:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/03/2018-0103code-the-redacted-report-part-3/</loc>
+    <lastmod>2018-01-03T02:02:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2018/01/01/2018-0101code-the-redacted-report-part-2/</loc>
+    <lastmod>2018-01-01T08:03:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/31/2017-1231code-endings-and-beginnings/</loc>
+    <lastmod>2017-12-31T15:34:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/31/2017-1231code-the-redacted-report-part-1/</loc>
+    <lastmod>2017-12-31T04:20:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/30/2017-1230code-a-secure-delivery/</loc>
+    <lastmod>2017-12-30T02:44:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/29/2017-1229code-jaicats-new-glyph-music-project/</loc>
+    <lastmod>2017-12-29T07:41:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/29/jojo-schizotypy/</loc>
+    <lastmod>2017-12-29T03:44:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/29/jojo-simulated-annealing/</loc>
+    <lastmod>2017-12-29T02:50:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/28/2017-1228code-jaicats-journey/</loc>
+    <lastmod>2017-12-28T02:54:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/27/2017-1227code-omnivores-kin/</loc>
+    <lastmod>2017-12-27T03:01:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/25/2017-1225code-crossing-paths-at-the-castle-iv/</loc>
+    <lastmod>2017-12-25T15:34:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/25/2017-1225code-crossing-paths-at-the-castle-iii/</loc>
+    <lastmod>2017-12-25T01:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/24/2017-1224code-crossing-paths-at-the-castle-ii/</loc>
+    <lastmod>2017-12-24T01:45:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/23/2017-1223code-crossing-paths-at-the-castle-i/</loc>
+    <lastmod>2017-12-23T01:34:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/21/2017-1221code-now-you-see/</loc>
+    <lastmod>2017-12-21T15:03:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/21/2017-1221code-final-thoughts-by-hank-johnson/</loc>
+    <lastmod>2017-12-21T07:09:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/20/2017-1220code-mutual-mistrust/</loc>
+    <lastmod>2017-12-20T06:41:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/19/2017-12-19-rubilacxes-melody/</loc>
+    <lastmod>2017-12-19T04:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/17/2107-1217code-uncover-everything/</loc>
+    <lastmod>2017-12-17T15:11:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/17/2017-1217code-a-disparaging-rumor/</loc>
+    <lastmod>2017-12-17T04:23:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/15/2017-1215code-where-there-was-one/</loc>
+    <lastmod>2017-12-15T03:12:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/15/2017-1215code-a-moment-of-connection/</loc>
+    <lastmod>2017-12-15T02:50:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/14/2017-12-14code-not-who-she-says-she-is/</loc>
+    <lastmod>2017-12-14T01:51:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/12/2017-1212code-something-to-hide/</loc>
+    <lastmod>2017-12-12T00:47:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/11/2017-1211code-the-aegis-shield-and-the-quantum-capsule/</loc>
+    <lastmod>2017-12-11T04:21:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/07/2017-1207code-a-motive-for-devra/</loc>
+    <lastmod>2017-12-07T02:26:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/06/2017-1206code-glimpses-of-exo5/</loc>
+    <lastmod>2017-12-06T01:51:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/05/2017-1205-in-which-pac-faces-the-heat/</loc>
+    <lastmod>2017-12-05T09:00:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/03/2017-1203code-persons-of-interest-myself-pac/</loc>
+    <lastmod>2017-12-03T07:50:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/03/2017-1203code-enlightened-claim-exo5/</loc>
+    <lastmod>2017-12-03T07:02:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/12/02/2017-1202code-exo5-day-two/</loc>
+    <lastmod>2017-12-02T06:33:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/30/2017-1130code-central-omnilytics-the-ties-to-epiphany-night/</loc>
+    <lastmod>2017-11-30T05:29:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/29/exo5-day-two/</loc>
+    <lastmod>2017-11-29T10:50:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/29/2017-1129code-central-omnilytics-murder-at-niantic-report-part-two/</loc>
+    <lastmod>2017-11-29T02:21:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/28/2017-1128code-precursors-receding/</loc>
+    <lastmod>2017-11-28T09:03:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/27/2017-1127code-future-present-past/</loc>
+    <lastmod>2017-11-27T06:21:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/26/2017-1126code-anomalous-event-report-part-one/</loc>
+    <lastmod>2017-11-26T06:50:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/25/2017-1125code-consciously-real/</loc>
+    <lastmod>2017-11-25T05:17:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/24/2017-1124code-the-next-stage/</loc>
+    <lastmod>2017-11-24T15:39:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/24/2017-1124code-exo5-day-two-anomaly-intel/</loc>
+    <lastmod>2017-11-24T15:16:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/23/2017-1123code-hanks-global-intel-challenge/</loc>
+    <lastmod>2017-11-23T04:52:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/22/2017-1122code-business-trip-hank-headed-to-taipei-for-exo5/</loc>
+    <lastmod>2017-11-22T09:21:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/21/2017-1121code-acolyte-to-join-enlightened-in-san-francisco/</loc>
+    <lastmod>2017-11-21T03:05:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/20/2017-1120code-anomaly-footprints-and-phase-maps-for-december-2/</loc>
+    <lastmod>2017-11-20T03:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/19/2017-1119code-akiras-nl-1331-inspection-visit-during-san-francisco-exo5/</loc>
+    <lastmod>2017-11-19T02:35:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/18/2017-1118code-and-now-misty-too/</loc>
+    <lastmod>2017-11-18T02:24:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/17/2017-1117code-devras-heading-to-san-francisco/</loc>
+    <lastmod>2017-11-17T02:28:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/15/2017-1115code-the-true-source-of-power-and-mystery/</loc>
+    <lastmod>2017-11-15T03:23:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/14/2017-1114code-to-the-bay/</loc>
+    <lastmod>2017-11-14T02:13:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/14/2017-1114code-on-turing-tests-brain-extenders-and-ai-ethics/</loc>
+    <lastmod>2017-11-14T02:00:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/12/2017-1112code-ingress-report/</loc>
+    <lastmod>2017-11-12T08:32:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/11/2017-1111code-the-boss/</loc>
+    <lastmod>2017-11-11T02:00:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/10/2017-1110code-the-choice/</loc>
+    <lastmod>2017-11-10T15:08:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/09/2017-1109code-to-be-or-not-to-be/</loc>
+    <lastmod>2017-11-09T13:43:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/08/2017-1108code/</loc>
+    <lastmod>2017-11-08T07:03:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/07/2017-1107code-seeking-akira/</loc>
+    <lastmod>2017-11-07T08:15:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/04/2017-1104code-enl-claim-exo5-day-one-and-hank-johnson-has-some-crazy-news/</loc>
+    <lastmod>2017-11-04T03:23:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/04/exo5-q4-%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%83%85%E6%8A%A5/</loc>
+    <lastmod>2017-11-03T16:00:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/03/2017-1103code-investigate/</loc>
+    <lastmod>2017-11-03T08:44:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/03/2017-1103code-arrived-osaka/</loc>
+    <lastmod>2017-11-03T01:54:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/11/01/2017-1101code-devras-research/</loc>
+    <lastmod>2017-11-01T07:56:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/31/2017-1031code-kodamasmiles-everything-you-need-to-know-exo5-day-1/</loc>
+    <lastmod>2017-10-31T06:30:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/30/2017-1030code-details-emerging-funeral-services-for-calvin-scheduled/</loc>
+    <lastmod>2017-10-30T08:25:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/29/2017-1029code-hank-johnson-confirms-calvin-phillips-dead/</loc>
+    <lastmod>2017-10-29T10:13:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/28/2017-1028code-leaked-draft-statement-on-nia-incident/</loc>
+    <lastmod>2017-10-28T08:16:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/27/2017-1027code-possible-incident-at-secure-nia-facility/</loc>
+    <lastmod>2017-10-27T04:50:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/26/2017-1026code-the-escalation/</loc>
+    <lastmod>2017-10-26T06:25:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/25/2017-1025code-a-secure-location/</loc>
+    <lastmod>2017-10-25T02:08:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/25/2017-1025code-damage-control/</loc>
+    <lastmod>2017-10-25T02:06:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/23/2017-1023code-exo5-day-1-anomaly-footprints-and-phase-maps/</loc>
+    <lastmod>2017-10-23T01:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/22/2017-1022code-nl-prime-phase-i-expansion/</loc>
+    <lastmod>2017-10-22T02:11:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/21/2017-1021code-enlightened-or-resistance-erwin-schrodinger/</loc>
+    <lastmod>2017-10-21T04:25:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/20/2017-1020code-the-secret-struggle/</loc>
+    <lastmod>2017-10-20T01:55:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/19/2017-1019code-the-patron-portal-at-the-autumn-lights-festival-oakland-ca/</loc>
+    <lastmod>2017-10-19T09:31:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/18/2017-1018code-a-moving-target/</loc>
+    <lastmod>2017-10-18T07:42:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/17/2017-1017code-lorazon-jumps-ship/</loc>
+    <lastmod>2017-10-17T15:13:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/17/jojo-tendentious/</loc>
+    <lastmod>2017-10-17T05:53:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/15/2017-1015code-enlightened-or-resistance-maurice-princet/</loc>
+    <lastmod>2017-10-15T12:23:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/14/2017-1014code-nl-1331-e-operative-report-part-iii/</loc>
+    <lastmod>2017-10-13T17:16:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/13/2017-1013code-nl-1331-e-operative-report-part-ii/</loc>
+    <lastmod>2017-10-13T15:14:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/13/2017-1013code-nl-1331-e-operative-report-part-i/</loc>
+    <lastmod>2017-10-13T12:55:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/11/2017-1011-kodamasmiles-everything-you-need-to-know/</loc>
+    <lastmod>2017-10-11T15:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/11/jojo-ensconce/</loc>
+    <lastmod>2017-10-11T03:28:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/11/jojo-discursive/</loc>
+    <lastmod>2017-10-10T17:19:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/10/2017-1010code-completely-overwhelmed/</loc>
+    <lastmod>2017-10-10T02:51:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/10/jojo-aggiornamento/</loc>
+    <lastmod>2017-10-10T02:31:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/10/2017-1010code-rpe-in-boulder/</loc>
+    <lastmod>2017-10-09T16:30:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/09/2017-1009code-motive-means-opportunity/</loc>
+    <lastmod>2017-10-09T15:34:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/08/2017-1008code-the-minds-map/</loc>
+    <lastmod>2017-10-07T17:42:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/06/2017-1006code-enlightened-or-resistance-joseph-marie-jacquard/</loc>
+    <lastmod>2017-10-06T11:54:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/05/2017-1005code-hunter-and-prey/</loc>
+    <lastmod>2017-10-05T11:46:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/04/2017-1004code-an-image-from-the-past/</loc>
+    <lastmod>2017-10-04T02:53:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/03/2017-1003code-karls-associate/</loc>
+    <lastmod>2017-10-03T02:19:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/02/2017-1002code-a-snake-in-the-garden/</loc>
+    <lastmod>2017-10-02T05:06:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/10/01/2017-1001code-poll-who-do-you-think-assassinated-ken-owen/</loc>
+    <lastmod>2017-10-01T04:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/30/2017-0930code-three-wise-mens-theories-on-exo-precursors/</loc>
+    <lastmod>2017-09-30T03:06:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/29/2017-0930code-kodamasmiles-everything-you-need-to-know/</loc>
+    <lastmod>2017-09-29T05:48:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/28/2017-0928code-ken-owens-change-of-address-form/</loc>
+    <lastmod>2017-09-28T05:37:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/28/jojo-macarism/</loc>
+    <lastmod>2017-09-28T02:39:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/27/jojo-portentous/</loc>
+    <lastmod>2017-09-27T03:10:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/27/2017-0927code-reliable-data/</loc>
+    <lastmod>2017-09-27T02:00:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/26/2017-0926code-dc-findings/</loc>
+    <lastmod>2017-09-26T08:27:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/25/2017-0925code-mistys-thoughts-on-the-return-of-portal-submissions/</loc>
+    <lastmod>2017-09-25T06:26:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/24/2017-0924/</loc>
+    <lastmod>2017-09-24T14:27:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/23/jojo-eliza-effect/</loc>
+    <lastmod>2017-09-23T03:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/23/2017-0923code-a-shared-purpose/</loc>
+    <lastmod>2017-09-23T03:38:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/22/2017-0923code-the-owen-murder-mystery/</loc>
+    <lastmod>2017-09-22T14:42:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/22/2017-0922code-into-the-mindpalace/</loc>
+    <lastmod>2017-09-22T11:46:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/21/jojo-idiorrhythmic/</loc>
+    <lastmod>2017-09-21T10:56:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/21/2017-0921code-precursors/</loc>
+    <lastmod>2017-09-21T09:23:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/19/jojo-remonstrate/</loc>
+    <lastmod>2017-09-19T12:38:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/19/2017-0919code/</loc>
+    <lastmod>2017-09-19T08:51:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/18/2017-0918code-13magnusreawakens-all-you-need-to-know/</loc>
+    <lastmod>2017-09-18T08:05:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/17/2017-0917code-misty-hannah-building-your-own-mind-palace/</loc>
+    <lastmod>2017-09-17T06:24:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/16/2017-0916code-at-the-statue-of-stevie-ray-in-austin/</loc>
+    <lastmod>2017-09-16T15:54:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/16/13magnusreawakens-day-two-finale-anomaly-intel/</loc>
+    <lastmod>2017-09-16T09:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/15/2017-0915code-the-sound-of-war/</loc>
+    <lastmod>2017-09-15T15:13:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/14/2017-0914code-truthseekers-in-dc/</loc>
+    <lastmod>2017-09-14T15:56:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/13/2017-0914code-who-was-ken-owen/</loc>
+    <lastmod>2017-09-13T15:43:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/13/2017-0913code-13magnusreawakens-day-2-anomaly-intel-footprints-and-phase-maps/</loc>
+    <lastmod>2017-09-13T02:29:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/11/2017-0911code-hank-johnson-confirms-ken-owens-death/</loc>
+    <lastmod>2017-09-10T17:17:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/10/2017-0910code-body-found-is-it-ken-owen/</loc>
+    <lastmod>2017-09-09T17:15:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/09/2017-0909code-where-there-never-was-a-hat/</loc>
+    <lastmod>2017-09-09T09:07:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/08/2017-0908code-witnessing-the-mind-palace/</loc>
+    <lastmod>2017-09-08T05:42:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/07/2017-0907code-palace-intrigue/</loc>
+    <lastmod>2017-09-07T05:40:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/06/2017-0906code-themindpalace/</loc>
+    <lastmod>2017-09-06T04:39:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/05/2017-0905code-a-visit-to-the-mind-palace/</loc>
+    <lastmod>2017-09-04T17:26:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/04/2017-0904code-mustafa-mumu-saids-history-of-nl-1331/</loc>
+    <lastmod>2017-09-04T09:34:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/03/2017-0903code-nl-1331e-research-competition/</loc>
+    <lastmod>2017-09-03T14:56:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/02/2017-0902code-signals-and-dates/</loc>
+    <lastmod>2017-09-02T14:03:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/01/2017-0901-jojos-g-incogitant/</loc>
+    <lastmod>2017-09-01T13:09:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/09/01/2017-0901code-november-lima/</loc>
+    <lastmod>2017-09-01T09:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/31/2017-0831code-improvements/</loc>
+    <lastmod>2017-08-30T16:36:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/30/2017-0830code-the-mind-palace-rpe/</loc>
+    <lastmod>2017-08-30T15:30:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/29/2017-0829code-message-to-misty/</loc>
+    <lastmod>2017-08-29T13:54:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/28/2017-0828code-the-disappearance-of-misty-hannah/</loc>
+    <lastmod>2017-08-28T07:03:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/26/13magnus-q3-%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%83%85%E6%8A%A5/</loc>
+    <lastmod>2017-08-26T14:56:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/26/2017-0826code-the-anomalies-begin/</loc>
+    <lastmod>2017-08-26T03:39:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/25/2017-0825code-old-friends/</loc>
+    <lastmod>2017-08-25T11:15:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/24/2017-0824codefan-mail-for-misty-hannah/</loc>
+    <lastmod>2017-08-24T02:02:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/23/2017-0823code-where-and-why-whos-going-to-the-anomalies/</loc>
+    <lastmod>2017-08-23T02:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/22/2017-0822code-13magnusreawakens-august-anomaly-impact/</loc>
+    <lastmod>2017-08-22T15:21:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/20/2017-0820code-rubicon/</loc>
+    <lastmod>2017-08-20T04:15:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/19/2017-0819code-opportunity/</loc>
+    <lastmod>2017-08-19T15:50:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/19/2017-0819code-lure/</loc>
+    <lastmod>2017-08-18T18:41:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/17/2017-0817code-anomaly-footprints-and-phases/</loc>
+    <lastmod>2017-08-16T16:08:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/16/2017-0816code-a-new-pandoras-box/</loc>
+    <lastmod>2017-08-16T14:18:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/16/2017-0816-jojos-g-retral/</loc>
+    <lastmod>2017-08-15T17:58:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/15/2017-0815code-summoning/</loc>
+    <lastmod>2017-08-14T17:23:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/15/2017-0815-jojos-g-hapax-legomenon/</loc>
+    <lastmod>2017-08-14T17:20:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/14/2017-0814code-totality/</loc>
+    <lastmod>2017-08-13T16:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/13/2017-0813code-closer-to-the-source/</loc>
+    <lastmod>2017-08-13T12:24:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/13/2017-0813-jojos-g-semantic-shift/</loc>
+    <lastmod>2017-08-12T17:10:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/12/2017-0812code-0-0-1/</loc>
+    <lastmod>2017-08-12T04:43:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/11/2017-0811code-the-tricksters-true-nature/</loc>
+    <lastmod>2017-08-11T14:53:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/10/2017-0810code-a-different-kind-of-virus/</loc>
+    <lastmod>2017-08-10T02:59:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/10/2017-0811-jojos-g-propria-persona/</loc>
+    <lastmod>2017-08-09T17:39:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/09/2017-0809code-misty-on-the-road/</loc>
+    <lastmod>2017-08-09T01:58:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/09/2017-0809-jojos-gexcrescence/</loc>
+    <lastmod>2017-08-08T17:55:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/09/2017-0809code-anomalous-zone-guidelines/</loc>
+    <lastmod>2017-08-08T16:51:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/07/2017-0807codethe-dangers-of-remote-participation/</loc>
+    <lastmod>2017-08-07T02:14:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/07/2017-0807-jojos-gcoze/</loc>
+    <lastmod>2017-08-06T18:11:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/06/2017-0806code-palace-notes-ii/</loc>
+    <lastmod>2017-08-06T08:50:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/05/2017-0805code-palace-notes-i/</loc>
+    <lastmod>2017-08-05T07:37:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/04/13magnusreawakens-anomaly-intel-ts-triptych%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2017-08-04T12:54:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/04/2017-0804code-a-symbiotic-relationship/</loc>
+    <lastmod>2017-08-04T10:03:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/03/2017-0803code-13magnusreawakens-anomaly-intel/</loc>
+    <lastmod>2017-08-03T05:23:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/02/2017-0802code-the-other-scopas/</loc>
+    <lastmod>2017-08-02T08:03:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/08/01/2017-0801code-remote-participation-exercises/</loc>
+    <lastmod>2017-08-01T03:49:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/31/2017-0731code-the-humanist-bond/</loc>
+    <lastmod>2017-07-31T09:05:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/30/2017-0730code-the-old-astronomer/</loc>
+    <lastmod>2017-07-30T03:42:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/29/2017-0729code-illusion-and-reality/</loc>
+    <lastmod>2017-07-29T03:32:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/28/2017-07-28code-el-portal/</loc>
+    <lastmod>2017-07-28T01:52:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/27/2017-07-27code-come-see-the-magic/</loc>
+    <lastmod>2017-07-27T01:38:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/27/2017-07-25code-the-history-of-tycho-part-iii/</loc>
+    <lastmod>2017-07-26T16:06:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/26/2017-07-26jojos-g-auxesis/</loc>
+    <lastmod>2017-07-26T04:34:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/24/2017-07-24code-the-history-of-tycho-part-ii/</loc>
+    <lastmod>2017-07-24T09:48:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/24/2017-07-24code-the-history-of-tycho-part-i/</loc>
+    <lastmod>2017-07-24T09:27:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/24/2017-07-24-jojos-gmicropsia/</loc>
+    <lastmod>2017-07-24T02:58:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/23/2017-07-23code-the-ruin-of-scopas/</loc>
+    <lastmod>2017-07-23T06:38:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/23/2017-07-23jojos-g-dotsam/</loc>
+    <lastmod>2017-07-23T02:58:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/22/2017-07-22code-mistys-san-diego-message/</loc>
+    <lastmod>2017-07-22T06:37:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/21/2017-07-21code-the-anatomy-of-a-tycho-vision/</loc>
+    <lastmod>2017-07-20T16:17:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/20/2017-07-20code-tychos-secret/</loc>
+    <lastmod>2017-07-20T15:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/18/2017-07-18code-the-season-of-the-trickster/</loc>
+    <lastmod>2017-07-18T15:47:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/18/2017-07-18code-seen-and-unseen/</loc>
+    <lastmod>2017-07-18T02:20:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/17/2017-07-17code-dialtone/</loc>
+    <lastmod>2017-07-17T15:22:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/16/2017-07-16jojos-ghypozeuxis/</loc>
+    <lastmod>2017-07-16T02:23:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/15/2017-07-15code-vessels-for-possibility/</loc>
+    <lastmod>2017-07-15T15:27:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/14/2017-07-14code-the-reality-of-tycho/</loc>
+    <lastmod>2017-07-14T13:00:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/14/2017-07-14jojos-ginstantiate/</loc>
+    <lastmod>2017-07-13T17:52:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/13/2017-07-13code-the-guardians/</loc>
+    <lastmod>2017-07-13T15:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/13/2017-07-13jojos-gglocal/</loc>
+    <lastmod>2017-07-13T06:12:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/13/2017-07-13code-contacted-by-jahan/</loc>
+    <lastmod>2017-07-12T17:06:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/12/2017-07-12jojos-g-hot-data/</loc>
+    <lastmod>2017-07-12T15:19:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/12/2017-07-11code-misty-surfacing-rpe-delayed/</loc>
+    <lastmod>2017-07-12T13:29:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/11/2017-0711jojos-g-leet/</loc>
+    <lastmod>2017-07-11T15:43:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/10/2017-07-10code-the-ito-en-transmuter/</loc>
+    <lastmod>2017-07-10T10:07:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/10/2017-07-10code-the-troubles-of-the-world/</loc>
+    <lastmod>2017-07-10T09:35:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/10/2017-07-09jojos-g-sortition/</loc>
+    <lastmod>2017-07-09T16:56:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/09/2017-07-08code-watch-and-listen/</loc>
+    <lastmod>2017-07-09T13:41:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/09/2017-07-09jojos-glateral-thinking/</loc>
+    <lastmod>2017-07-08T17:24:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/08/2017-07-08code-future-edits/</loc>
+    <lastmod>2017-07-08T13:53:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/08/2017-07-07code-the-ghost-artist/</loc>
+    <lastmod>2017-07-07T19:11:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/07/2017-07-07jojos-g-vertex/</loc>
+    <lastmod>2017-07-07T04:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/06/2017-07-06code-once-upon-a-time-in-puerto-rico/</loc>
+    <lastmod>2017-07-06T15:00:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/05/2017-07-04jojos-g-penelopize/</loc>
+    <lastmod>2017-07-05T15:20:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/05/2017-0705code-none-of-thirteen/</loc>
+    <lastmod>2017-07-05T14:01:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/04/2017-07-03code-spontaneous-conversation-2/</loc>
+    <lastmod>2017-07-04T15:48:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/04/2017-07-04jojos-g-munchausen-trilemma/</loc>
+    <lastmod>2017-07-04T14:15:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/04/2017-07-03code-spontaneous-conversation/</loc>
+    <lastmod>2017-07-03T17:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/03/2017-07-03jojos-gconcinnity/</loc>
+    <lastmod>2017-07-03T03:21:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/02/2017-07-02code-nai%CC%88vete/</loc>
+    <lastmod>2017-07-02T13:26:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/01/2017-07-01-jojos-g-previse/</loc>
+    <lastmod>2017-07-01T14:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/07/01/2017-07-01code-xm-disturbances/</loc>
+    <lastmod>2017-07-01T11:46:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/30/2017-06-30code-mistys-appearance/</loc>
+    <lastmod>2017-06-30T10:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/29/2017-06-29code-what-comes-naturally/</loc>
+    <lastmod>2017-06-29T15:25:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/29/2017-06-29-jojos-g-pro-se/</loc>
+    <lastmod>2017-06-29T01:24:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/28/2017-06-28code-hank-johnsons-nomad-13magnus-reawakens-part-3/</loc>
+    <lastmod>2017-06-28T15:46:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/27/2017-06-26code-seeking-misty/</loc>
+    <lastmod>2017-06-27T04:59:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/26/2017-06-26jojos-g-doublethink/</loc>
+    <lastmod>2017-06-26T11:25:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/25/2017-06-25code-enlightened-claim-agent-olympiad/</loc>
+    <lastmod>2017-06-25T03:33:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/25/2017-06-25-jojos-gsurcease/</loc>
+    <lastmod>2017-06-24T16:24:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/24/2017-06-24code-agent-olympiad-begins/</loc>
+    <lastmod>2017-06-24T13:55:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/23/2017-06-23code-investigating-akira/</loc>
+    <lastmod>2017-06-23T04:44:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/23/2017-06-23-jojos-gpanegyrize/</loc>
+    <lastmod>2017-06-23T04:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/22/2017-06-23code-the-first-agent-olympiad/</loc>
+    <lastmod>2017-06-22T02:14:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/21/2017-06-21code-hank-johnsons-nomad-13magnus-reawakens-part-2/</loc>
+    <lastmod>2017-06-21T08:13:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/21/2017-06-21-jojos-g/</loc>
+    <lastmod>2017-06-21T02:41:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/20/2017-06-20code-the-fate-of-the-niantic-magnus/</loc>
+    <lastmod>2017-06-20T07:19:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/20/2017-06-20-jojos-g/</loc>
+    <lastmod>2017-06-20T04:30:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/19/test/</loc>
+    <lastmod>2017-06-19T06:04:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/19/2017-06-19code-dreams-and-realities/</loc>
+    <lastmod>2017-06-19T06:00:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/19/2017-06-19-jojo-g/</loc>
+    <lastmod>2017-06-19T02:17:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/19/2017-06-20-jojog/</loc>
+    <lastmod>2017-06-18T22:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/18/2017-06-18code-the-inbetween/</loc>
+    <lastmod>2017-06-18T14:53:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/17/2017-06-17-jojos-g-wiegand-interface/</loc>
+    <lastmod>2017-06-17T07:30:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/06/17/2017-06-17code-the-begin-elegy/</loc>
+    <lastmod>2017-06-16T18:47:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/06/2017-05-06code-magnus-threats-and-opportunities-1/</loc>
+    <lastmod>2017-05-06T02:20:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/05/2017-05-05code-archetypal-visions-1/</loc>
+    <lastmod>2017-05-05T01:52:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/04/2017-05-04code-precious-metals/</loc>
+    <lastmod>2017-05-03T16:31:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/03/2017-05-03code-the-sourcebook-anomalous-zones/</loc>
+    <lastmod>2017-05-03T14:40:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/02/2017-05-02code-hazdata-changes-hands/</loc>
+    <lastmod>2017-05-02T14:23:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/01/2017-05-01code-rumor-akira-tsukasas-up-to-something/</loc>
+    <lastmod>2017-05-01T15:25:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/05/01/2017-05-01code-traveling-companions/</loc>
+    <lastmod>2017-05-01T09:18:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/29/2017-04-29code-navarros-golden-roots/</loc>
+    <lastmod>2017-04-29T04:47:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/29/2017-04-29code-hank-johnson-a-counterpoint-to-schuberts-skeptical-pov/</loc>
+    <lastmod>2017-04-29T04:25:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/28/2017-04-28code-this-is-madness/</loc>
+    <lastmod>2017-04-28T02:25:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/26/2017-04-26code-tecthulhu-experiment/</loc>
+    <lastmod>2017-04-26T02:05:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/25/2017-04-25code-anazktec-legends/</loc>
+    <lastmod>2017-04-25T15:22:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/25/2017-04-25code-magnus-emerging/</loc>
+    <lastmod>2017-04-25T15:08:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/23/2017-04-23code-kodamarecon-followup/</loc>
+    <lastmod>2017-04-23T13:44:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/22/2017-04-22code-martin-schubert-thoughts-on-the-rpg-also-rpg-signup-sheet/</loc>
+    <lastmod>2017-04-22T13:28:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/22/2017-04-22code-recon-mission-kodama-in-san-francisco/</loc>
+    <lastmod>2017-04-22T13:08:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/20/2017-04-20code-playing-with-fire/</loc>
+    <lastmod>2017-04-20T12:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/20/2017-04-20jojos-geighty-six/</loc>
+    <lastmod>2017-04-20T10:44:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/19/2017-04-19%E6%9C%AA%E8%A7%A3/</loc>
+    <lastmod>2017-04-19T12:29:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/19/2017-04-19code-hank-johnson-past-and-future/</loc>
+    <lastmod>2017-04-19T09:29:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/19/2017-04-19code/</loc>
+    <lastmod>2017-04-19T02:41:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/17/2017-04-17code-kodamasmiles-fateofthe13-part-3/</loc>
+    <lastmod>2017-04-17T09:01:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/17/2017-04-17code-hank-johnson-order-and-chaos/</loc>
+    <lastmod>2017-04-17T08:23:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/16/2017-04-16code-hank-johnson-time-and-place/</loc>
+    <lastmod>2017-04-16T07:53:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/15/2017-04-15code-kodamasmiles-fateofthe13-part-2/</loc>
+    <lastmod>2017-04-15T07:15:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/14/2017-04-14code-universe-state/</loc>
+    <lastmod>2017-04-14T06:28:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/13/2017-04-13code-kodamasmiles-fateofthe13-part-1/</loc>
+    <lastmod>2017-04-13T06:10:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/12/2017-04-12code-into-the-woods/</loc>
+    <lastmod>2017-04-12T05:25:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/11/2017-04-11code-followup-prime-intel/</loc>
+    <lastmod>2017-04-11T04:38:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/09/2017-04-09code-hank-johnson-worlds-not-our-own/</loc>
+    <lastmod>2017-04-09T15:04:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/09/2017-04-09codemagnus-transforming/</loc>
+    <lastmod>2017-04-09T14:59:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/07/2017-04-07-jojosg/</loc>
+    <lastmod>2017-04-07T08:08:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/07/2017-04-07code-subject-fateofthe13/</loc>
+    <lastmod>2017-04-07T07:12:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/06/2017-04-06/</loc>
+    <lastmod>2017-04-06T03:32:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/04/2017-04-04codecompromised-briefing-pt6-tecthulhu/</loc>
+    <lastmod>2017-04-04T02:22:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/04/2017-04-04codehank-johnson-nia-hq/</loc>
+    <lastmod>2017-04-04T01:43:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/03/2017-04-03codeoperation-essex-sensitive-variations/</loc>
+    <lastmod>2017-04-03T15:52:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/03/2017-04-03unknown/</loc>
+    <lastmod>2017-04-02T16:30:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/03/2017-04-03code/</loc>
+    <lastmod>2017-04-02T16:17:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/01/2017-04-01hank-johnson-lynton-wolfes-chamber-and-the-future-of-the-magnus/</loc>
+    <lastmod>2017-04-01T15:24:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/04/01/2017-04-01codehumint-img-6882/</loc>
+    <lastmod>2017-04-01T15:17:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/03/30/40/</loc>
+    <lastmod>2017-03-30T09:57:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/blog/2017/01/01/new-years-eve-decode-challenge/</loc>
+    <lastmod>2017-01-01T15:17:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/2in1/</loc>
+    <lastmod>2018-04-04T16:00:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ms300.cn/</loc>
-    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+    <loc>http://passcode.fr/tags/3in1/</loc>
+    <lastmod>2018-04-01T16:05:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ms300.cn/post/</loc>
-    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+    <loc>http://passcode.fr/tags/a0/</loc>
+    <lastmod>2018-04-17T16:00:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ms300.cn/tags/</loc>
+    <loc>http://passcode.fr/tags/a1/</loc>
+    <lastmod>2018-04-12T16:00:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ms300.cn/categories/work/</loc>
-    <lastmod>2018-07-24T10:52:58+08:00</lastmod>
+    <loc>http://passcode.fr/tags/alberticipherdisk/</loc>
+    <lastmod>2018-03-28T16:15:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/anomalycode/</loc>
+    <lastmod>2018-02-15T14:14:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/ascii/</loc>
+    <lastmod>2018-04-17T16:00:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/atbash/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/atom/</loc>
+    <lastmod>2018-03-28T16:02:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/atom2binary/</loc>
+    <lastmod>2018-03-28T16:02:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/base26/</loc>
+    <lastmod>2018-01-10T02:07:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/base32/</loc>
+    <lastmod>2017-10-25T02:08:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/base5/</loc>
+    <lastmod>2018-02-05T06:30:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/base64/</loc>
+    <lastmod>2018-03-28T16:27:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/bifid/</loc>
+    <lastmod>2017-09-24T14:27:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/binary/</loc>
+    <lastmod>2018-03-28T16:02:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/blogcode/</loc>
+    <lastmod>2018-07-16T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/</loc>
+    <lastmod>2018-02-15T14:14:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/count/</loc>
+    <lastmod>2018-04-12T16:00:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/dvorak/</loc>
+    <lastmod>2018-02-07T04:19:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/google/</loc>
+    <lastmod>2018-03-28T15:51:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/grid/</loc>
+    <lastmod>2018-04-08T16:00:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/hex/</loc>
+    <lastmod>2018-03-23T04:21:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/</loc>
+    <lastmod>2018-07-16T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/keyboard/</loc>
+    <lastmod>2018-04-17T16:00:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/keyword%E8%81%94%E6%83%B3/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/leetspeak/</loc>
+    <lastmod>2018-04-06T16:00:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/morse/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/numberic-keypad/</loc>
+    <lastmod>2018-01-09T22:05:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/other/</loc>
+    <lastmod>2018-04-21T05:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/paint/</loc>
+    <lastmod>2018-01-09T22:05:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/phone/</loc>
+    <lastmod>2018-01-14T03:09:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/playfair/</loc>
+    <lastmod>2018-01-17T04:44:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/post/</loc>
+    <lastmod>2018-07-16T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/railfence/</loc>
+    <lastmod>2018-01-04T02:00:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/rot-n/</loc>
+    <lastmod>2018-04-01T16:00:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/search-skill/</loc>
+    <lastmod>2018-01-31T01:57:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/skip/</loc>
+    <lastmod>2018-03-28T16:15:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/</loc>
+    <lastmod>2018-04-04T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/test/</loc>
+    <lastmod>2018-04-21T05:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/url/</loc>
+    <lastmod>2017-09-17T06:24:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/vigenere/</loc>
+    <lastmod>2018-03-15T05:15:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/wotdcode/</loc>
+    <lastmod>2018-04-12T16:00:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/</loc>
+    <lastmod>2018-04-04T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E4%BD%8D%E7%A7%BB/</loc>
+    <lastmod>2018-01-14T03:09:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8/</loc>
+    <lastmod>2018-03-08T07:58:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/%E5%89%A7%E6%83%85/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E5%8F%8D%E5%90%91/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E5%9D%90%E6%A0%87/</loc>
+    <lastmod>2018-02-04T15:23:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E5%AD%97%E7%AC%A6%E8%89%BA%E6%9C%AF/</loc>
+    <lastmod>2018-04-04T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/%E5%B7%B2%E8%A7%A3%E5%86%B3/</loc>
+    <lastmod>2018-07-16T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E6%8B%89%E4%B8%81%E6%95%B0%E5%AD%97/</loc>
+    <lastmod>2018-01-29T17:10:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2017-10-30T08:25:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E6%95%B0%E5%AD%97atbash/</loc>
+    <lastmod>2017-08-01T03:49:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E6%95%B0%E5%AD%97%E7%BC%A9%E5%86%99/</loc>
+    <lastmod>2018-01-04T02:00:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</loc>
+    <lastmod>2018-03-11T02:35:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E6%A3%8B%E7%9B%98/</loc>
+    <lastmod>2018-04-17T16:00:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E6%B8%B8%E7%A8%8B/</loc>
+    <lastmod>2018-03-28T09:00:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E7%8C%A9%E7%8C%A9%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2018-04-11T16:00:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E7%9B%B2%E6%96%87/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E7%BB%B4%E5%90%89%E5%B0%BC%E4%BA%9A/</loc>
+    <lastmod>2018-01-07T08:04:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E7%BD%91%E5%9D%80/</loc>
+    <lastmod>2018-01-11T03:00:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97/</loc>
+    <lastmod>2018-03-19T01:58:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E8%89%B2%E5%80%BC/</loc>
+    <lastmod>2017-09-04T09:34:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://passcode.fr/tags/%E9%83%A8%E5%88%86%E5%8F%8D%E5%90%91/</loc>
+    <lastmod>2018-05-14T16:00:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   

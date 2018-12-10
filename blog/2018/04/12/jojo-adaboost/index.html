@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  <title>JOJO-ADABOOST</title>
+  <meta name="author" content="" />
+  <meta name="description"
+        content="ADABOOST (tech)
+
+Short for Adaptive Boosting, is a machine learning meta-algorithm that uses an ensemble learning approach to weight various inputs.
+
+简单来说，..."/>
+
+
+  <meta name="generator" content="Hugo 0.52" />
+
+  
+  <meta itemprop="name" content="JOJO-ADABOOST"/>
+  <meta itemprop="description"
+        content="ADABOOST (tech)
+
+Short for Adaptive Boosting, is a machine learning meta-algorithm that uses an ensemble learning approach to weight various inputs.
+
+简单来说，..."/>
+  <meta itemprop="image"
+        content=""/>
+
+  
+  <meta property="og:title" content="JOJO-ADABOOST"/>
+  <meta property="og:type"
+        content="article"/>
+  <meta property="og:url" content="http://passcode.fr/blog/2018/04/12/jojo-adaboost/"/>
+  <meta property="og:image"
+        content=""/>
+  <meta property="og:description"
+        content="ADABOOST (tech)
+
+Short for Adaptive Boosting, is a machine learning meta-algorithm that uses an ensemble learning approach to weight various inputs.
+
+简单来说，..."/>
+  <meta property="og:site_name" content="Ingress Decode Group"/>
+  <meta property="article:published_time"
+        content="2018-04-11T16:00:01&#43;00:00"/>
+  <meta property="article:section" content="post"/>
+  <meta property="article:tag" content="盲文"/>
+
+  
+  
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site"
+        content=""/>
+  <meta name="twitter:title" content="JOJO-ADABOOST"/>
+  <meta name="twitter:description"
+        content="ADABOOST (tech)
+
+Short for Adaptive Boosting, is a machine learning meta-algorithm that uses an ensemble learning approach to weight various inputs.
+
+简单来说，..."/>
+  <meta name="twitter:creator"
+        content=""/>
+  <meta name="twitter:image:src"
+        content=""/>
+
+  
+
+  
+  <link rel="stylesheet" type="text/css" href="http://passcode.fr/css/capsule.min.css"/>
+  
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'Your Google Analytics tracking ID', 'auto');
+  ga('send', 'pageview');
+  </script>
+
+  
+  </head>
+
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+    <nav class="navbar has-shadow is-white"
+     role="navigation" aria-label="main navigation">
+  <div class="container">
+
+    <div class="navbar-brand">
+      <a class="navbar-item" href="http://passcode.fr/">
+        <div class="title is-4">&nbsp;Ingress Decode Group</div>
+      </a>
+
+      
+      <label class="button navbar-burger is-white" for="navbar-burger-state">
+        <span></span>                               
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+
+    
+    <input type="checkbox" id="navbar-burger-state"/>
+
+    <div class="navbar-menu">
+      <div class="navbar-end">
+      <a href="http://passcode.fr/"
+         class="navbar-item
+                ">Home
+      </a>
+      <a href="http://passcode.fr/categories/anomalycode/"
+         class="navbar-item
+                ">Anomaly
+      </a>
+      <a href="http://passcode.fr/categories/wotdcode/"
+         class="navbar-item
+                ">WOTD
+      </a>
+      <a href="http://passcode.fr/categories/blogcode/"
+         class="navbar-item
+                ">Investigate
+      </a>
+      <a href="http://passcode.fr/tools/"
+         class="navbar-item
+                ">Tools
+      </a>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+    <section class="section" style="flex:1">
+
+      
+      <div class="container">
+        <p class="title">JOJO-ADABOOST</p>
+        <p class="subtitle">Apr 11, 2018</p>
+
+        
+
+        
+        <div class="content">
+          <h3 id="adaboost-tech">ADABOOST (tech)</h3>
+
+<p>Short for Adaptive Boosting, is a machine learning meta-algorithm that uses an ensemble learning approach to weight various inputs.</p>
+
+<p>简单来说，这是一种使用一个集成学习方法来对多种输入加权的机器学习元算法</p>
+
+<hr />
+
+<pre><span style="color: #c4c4c4;"><b>x#x#keywordx#xx</b></span>
+<span style="color: #c4c4c4;"><small>(# are 0 to 9)</small></span>
+隐藏code
+:: .  '. .  .: .. :: :.
+ ' ': .. ': '. '. '   .
+.   ' :  :' :  .. .  ::
+
+每隔两列符号就会有一列是全空格，我们先把这些空列去掉
+::. '.. .:..:::.
+ '':..':'.'.'  .
+.  ': :': ... ::
+总共出现四种符号，冒号，句号，引号，和空格，如果把一行的上下半部分看成两行，然后把第二行放到第一行后面，就可以得到这样的三行，空格用横杠代替
+..--.----.--...-...--..-........
+-...--...-.-.------...-.-.-.---.
+---..-...-----...---.-.-.-...-..
+
+总共是32列，每两列看成是看成一个盲文，字母部分占用6个格点，数字部分占用4个格点(忽略第一行)
+盲文解得d4k7s1fumetonymy
+把kw放到前后缀之间就得到
+<strong>d4k7metonymys1fu
+</strong></pre>
+        </div>
+
+        
+
+        
+<br>
+<div class="heading">Categories:</div>
+<div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <a href="http://passcode.fr/categories/wotdcode">
+      <span class="tag">W O T Dcode</span>
+    </a>
+  </div>
+  <div class="control">
+    <a href="http://passcode.fr/categories/%e5%b7%b2%e8%a7%a3%e5%86%b3">
+      <span class="tag">已解决</span>
+    </a>
+  </div>
+</div>
+<div class="heading">Tags:</div>
+<div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <a href="http://passcode.fr/tags/%e7%9b%b2%e6%96%87">
+      <span class="tag">盲文</span>
+    </a>
+  </div>
+</div>
+
+      </div>
+
+    </section>
+
+    <section class="section">
+      
+      <div class="container">
+  <div class="level">
+
+    <div class="level-left">
+      <div class="level-item">
+        <p class="control has-addons">
+          <a class="button" href="http://passcode.fr/blog/2018/04/12/jojo-fain/">
+            <span class="icon is-small"><i class="fa fa-chevron-left"></i></span>
+            <span class="is-hidden-touch is-hidden-desktop-only">
+              JOJO-FAIN
+            </span>
+            <span class="is-hidden-touch is-hidden-widescreen">
+              JOJO-FAIN
+            </span>
+            <span class="is-hidden-mobile is-hidden-desktop">
+              JOJO-FAIN
+            </span>
+            <span class="is-hidden-tablet">
+              JOJO-FAIN
+            </span>
+            
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <div class="level-right">
+      <div class="level-item">
+        <p class="control has-addons">
+          <a class="button" href="http://passcode.fr/blog/2018/04/09/2018-0407code-resistance-win-darkxmcure-challenge/">
+            <span class="is-hidden-touch is-hidden-desktop-only">
+              2018-0407code RESISTANCE WIN #DARKXMCURE CHALLENGE
+            </span>
+            <span class="is-hidden-touch is-hidden-widescreen">
+              2018-0407code RESISTANCE WIN #DARKXMCURE CHALLENGE
+            </span>
+            <span class="is-hidden-mobile is-hidden-desktop">
+              2018-0407code RESISTANCE WIN #DARKXMCURE CHALLENGE
+            </span>
+            <span class="is-hidden-tablet">
+              2018-0407code RESISTANCE WIN #DARKXMCURE...
+            </span>
+            
+            <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+          </a>
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+      <br>
+
+      
+      
+
+      <br>
+
+      
+      
+<div class="container">
+  <nav class="panel">
+    <p class="panel-heading">Related</p>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/05/15/2018-0512-code-hank-johnson-rpe-signups-for-camp-navarro-schloss-kaltenberg/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2018-0512-code HANK JOHNSON: RPE SIGNUPS FOR CAMP NAVARRO, SCHLOSS KALTENBERG&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/03/16/2018-0316code-a-tycho-in-tokyo/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2018-0316code A TYCHO IN TOKYO?&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/03/06/jojo-oblivescence/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>JOJO-OBLIVESCENCE&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/02/07/2018-0207code-a-message-from-a-nomad/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2018-0207code A MESSAGE FROM A NOMAD&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/01/28/2018-0128code-ancient-manuscripts/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2018-0128code ANCIENT MANUSCRIPTS&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/01/17/2018-0117code-below/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2018-0117code BELOW&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2018/01/14/2018-0114code-the-redacted-report-part-9/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2018-0114code THE REDACTED REPORT – PART 9&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/12/11/2017-1211code-the-aegis-shield-and-the-quantum-capsule/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-1211code THE AEGIS SHIELD AND THE QUANTUM CAPSULE&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/12/03/2017-1203code-persons-of-interest-myself-pac/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-1203code PERSONS OF INTEREST: MYSELF (PAC)&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/11/18/2017-1118code-and-now-misty-too/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-1118code AND NOW MISTY, TOO?&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/11/04/2017-1104code-enl-claim-exo5-day-one-and-hank-johnson-has-some-crazy-news/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-1104code ENL CLAIM #EXO5 DAY ONE — AND HANK JOHNSON HAS SOME CRAZY NEWS…&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/10/20/2017-1020code-the-secret-struggle/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-1020code THE SECRET STRUGGLE&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/09/18/2017-0918code-13magnusreawakens-all-you-need-to-know/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-0918code #13MAGNUSREAWAKENS: ALL YOU NEED TO KNOW&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/09/05/2017-0905code-a-visit-to-the-mind-palace/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-0905code A VISIT TO THE MIND PALACE&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+    <a class="panel-block" href="http://passcode.fr/blog/2017/08/24/2017-0824codefan-mail-for-misty-hannah/">
+      <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+      <span>&nbsp;</span>
+      <span>2017-0824codeFAN MAIL FOR MISTY HANNAH&nbsp;
+      
+      <div class="tag">盲文</div>
+      
+      </span>
+    </a>
+  </nav>
+</div>
+
+    </section>
+
+    <footer class="footer">
+  <div class="container">
+    <nav class="level">
+
+      <div class="level-item has-text-centered">
+        <a href="http://passcode.fr/post/" class="heading">
+          <span class="header">Posts</span>
+        </a>
+      </div>
+
+    </nav>
+
+    <nav class="level">
+
+      <div class="level-left has-text-centered">
+        <div class="level-item">
+          <form class="control has-icon has-icon-right" method="get"
+                action="https://duckduckgo.com">
+            <input class="input" type="text" name="q" maxlength="255"
+                   placeholder="Search">
+            <input class="input" type="hidden" name="sites" value="http://passcode.fr/">
+            <span class="icon is-small"><i class="fa fa-search"></i></span>
+          </form>
+        </div>
+      </div>
+
+      <div class="level-right has-text-centered">
+        <div class="level-item">
+
+          <a class="button" href="http://passcode.fr/">
+            <span class="icon"><i class="fa fa-home"></i></span>
+          </a> &nbsp;
+
+          
+          <a class="button" href="https://github.com/enldecode">
+            <span class="icon"><i class="fa fa-github"></i></span>
+          </a> &nbsp;
+
+          <a class="button" href="http://passcode.fr/index.xml">
+            <span class="icon"><i class="fa fa-rss"></i></span>
+          </a>
+
+        </div>
+      </div>
+
+    </nav>
+  </div>
+</footer>
+
+  </body>
+
+</html>
