@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ingress Decode Group</title>
-    <link>http://passcode.fr/categories/</link>
+    <link>https://passcode.fr/categories/</link>
     <description>Recent content in Categories on Ingress Decode Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Thu, 15 Feb 2018 14:14:59 +0000</lastBuildDate>
     
-	<atom:link href="http://passcode.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://passcode.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anomalycode</title>
-      <link>http://passcode.fr/categories/anomalycode/</link>
+      <link>https://passcode.fr/categories/anomalycode/</link>
       <pubDate>Thu, 15 Feb 2018 14:14:59 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/anomalycode/</guid>
+      <guid>https://passcode.fr/categories/anomalycode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogcode</title>
-      <link>http://passcode.fr/categories/blogcode/</link>
+      <link>https://passcode.fr/categories/blogcode/</link>
       <pubDate>Mon, 16 Jul 2018 16:00:36 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/blogcode/</guid>
+      <guid>https://passcode.fr/categories/blogcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>http://passcode.fr/categories/other/</link>
+      <link>https://passcode.fr/categories/other/</link>
       <pubDate>Sat, 21 Apr 2018 05:00:00 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/other/</guid>
+      <guid>https://passcode.fr/categories/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wotdcode</title>
-      <link>http://passcode.fr/categories/wotdcode/</link>
+      <link>https://passcode.fr/categories/wotdcode/</link>
       <pubDate>Thu, 12 Apr 2018 16:00:28 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/wotdcode/</guid>
+      <guid>https://passcode.fr/categories/wotdcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>剧情</title>
-      <link>http://passcode.fr/categories/%E5%89%A7%E6%83%85/</link>
+      <link>https://passcode.fr/categories/%E5%89%A7%E6%83%85/</link>
       <pubDate>Mon, 14 May 2018 16:00:32 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/%E5%89%A7%E6%83%85/</guid>
+      <guid>https://passcode.fr/categories/%E5%89%A7%E6%83%85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>已解决</title>
-      <link>http://passcode.fr/categories/%E5%B7%B2%E8%A7%A3%E5%86%B3/</link>
+      <link>https://passcode.fr/categories/%E5%B7%B2%E8%A7%A3%E5%86%B3/</link>
       <pubDate>Mon, 16 Jul 2018 16:00:36 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/%E5%B7%B2%E8%A7%A3%E5%86%B3/</guid>
+      <guid>https://passcode.fr/categories/%E5%B7%B2%E8%A7%A3%E5%86%B3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>未解</title>
-      <link>http://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</link>
+      <link>https://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</link>
       <pubDate>Sun, 11 Mar 2018 02:35:26 +0000</pubDate>
       
-      <guid>http://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</guid>
+      <guid>https://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</guid>
       <description></description>
     </item>
     
